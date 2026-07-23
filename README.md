@@ -110,8 +110,6 @@ streamlit run app.py
 
 **Sakthi Harish R**
 
-M.Sc. Data Science
-
 ---
 
 ⭐ If you find this project useful, consider giving it a star.
